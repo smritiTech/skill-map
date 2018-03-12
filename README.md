@@ -110,23 +110,4 @@ Github 开源项目地址：**[https://github.com/TeamStuQ/skill-map](https://gi
 ### v 0.1.1
 - 程序员技能图谱第一版发布
 
-## 版权声明
-本技能图谱遵循 **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 协议。_*商业转载必须征求极客邦科技 Geekbang 授权同意，转载请务必注明[出处](http://www.stuq.org/subject/skill-map/)。*_ **极客邦科技 Geekbang** 保留最终解释权及法律追究权力。
-
-欢迎关注极客邦科技 Geekbang 推出的「极客时间」App，获取更多技术干货。
-
-![极客时间](https://github.com/TeamStuQ/skill-map/blob/master/img/GeekTime-QRCode-200X200.png)
-
-## 特别鸣谢
-
-「程序员技能图谱」开源项目能有精美的展示图片，背后是设计同学在百忙之中配合内容编辑不厌其烦的设计、更新和修正，在此特别鸣谢以下设计同学的贡献（排名不分先后）：
-
-陈接（Jack）、杨旸（Tammy）、谢汝冰（Ice）、王慧娟（Amy）、王硕映（Ray）、张卓（Leslie）。
-
-## 赞助声明
-
-程序员技能图谱项目接受企业或者个人赞助，赞助经费主要用于覆盖图谱编辑、设计、印刷和运营成本。
-
-赞助合作请发邮件至 Raymond@geekbang.org 。
-
 
